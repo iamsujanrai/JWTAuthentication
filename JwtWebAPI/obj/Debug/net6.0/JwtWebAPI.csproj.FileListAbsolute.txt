@@ -1,0 +1,88 @@
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\appsettings.Development.json
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\appsettings.json
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.exe
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.deps.json
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.runtimeconfig.json
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.pdb
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.csproj.AssemblyReference.cache
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.AssemblyInfoInputs.cache
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.AssemblyInfo.cs
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.csproj.CoreCompileInputs.cache
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.MvcApplicationPartsAssemblyInfo.cs
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.MvcApplicationPartsAssemblyInfo.cache
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.JwtWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.JwtWebAPI.props
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JwtWebAPI.props
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JwtWebAPI.props
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\scopedcss\bundle\JwtWebAPI.styles.css
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.csproj.CopyComplete
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\refint\JwtWebAPI.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.pdb
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.genruntimeconfig.cache
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\obj\Debug\net6.0\ref\JwtWebAPI.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Scrutor.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+Z:\Projects\Personal\JWT Practice\JwtWebAPI\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\appsettings.Development.json
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\appsettings.json
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.exe
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.deps.json
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.runtimeconfig.json
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\JwtWebAPI.pdb
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Scrutor.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.csproj.AssemblyReference.cache
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.AssemblyInfoInputs.cache
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.AssemblyInfo.cs
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.csproj.CoreCompileInputs.cache
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.MvcApplicationPartsAssemblyInfo.cs
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.MvcApplicationPartsAssemblyInfo.cache
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.JwtWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.JwtWebAPI.props
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JwtWebAPI.props
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JwtWebAPI.props
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\scopedcss\bundle\JwtWebAPI.styles.css
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.csproj.CopyComplete
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\refint\JwtWebAPI.dll
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.pdb
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\JwtWebAPI.genruntimeconfig.cache
+Z:\Projects\Personal\JWTAuthentication\JwtWebAPI\obj\Debug\net6.0\ref\JwtWebAPI.dll
